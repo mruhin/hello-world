@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gizli Mətn</title>
+</head>
+<body style="background-color: white; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; font-family: sans-serif;">
+    <h1>Presentday presenttime</h1>
+</body>
+</html>
